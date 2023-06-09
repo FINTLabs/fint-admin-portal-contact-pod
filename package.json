@@ -1,5 +1,5 @@
 {
-  "name": "fint-admin-portal-dashboard-pod",
+  "name": "fint-admin-portal-contact-pod",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

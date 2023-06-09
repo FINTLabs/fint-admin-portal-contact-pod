@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
-  document.getElementById('fint-admin-portal-dashboard-pod') as HTMLElement
+  document.getElementById('fint-admin-portal-contact-pod') as HTMLElement
 );
 root.render(
   <React.StrictMode>
